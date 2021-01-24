@@ -1,4 +1,4 @@
-# fashion-website
+# modern-website
 Tried something new with GSAP and MagicScroll.js
 
 ![](/gifs/Website%20(1).gif)
